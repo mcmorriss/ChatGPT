@@ -6,6 +6,7 @@ that are beneficial in creating future projects.
 Interesting Use Cases:
 - Document Generation
 - Data Analysis
+- Frontend Styling
 - Project Management
 - Custom Boilerplate Generation
 - Business Ideation & Planning
